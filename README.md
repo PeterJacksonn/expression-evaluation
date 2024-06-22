@@ -4,3 +4,6 @@ Evaluates given arithmetic expressions and Boolean expressions. Inputs given in 
 If an expression contains variables, the user can enter the desired value for each variable in the expression.
 
 Inputs will be converted to postfix and outputted to the user. After this, if the user has used variables in their expression, they will be prompted to enter the desired value. This postfix expression will then be evaluated using the postfix evaluation algorithm.
+
+Example:
+![image](https://github.com/PeterJacksonn/expression-evaluation/assets/45214509/924103e8-4f3b-4d99-a88b-37f33b46d387)
